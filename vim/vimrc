@@ -1,0 +1,24 @@
+
+set nocompatible               
+filetype off
+
+"Plugins
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'scrooloose/nerdtree'
+
+call vundle#end()
+
+"Enable syntax highlighting
+syntax on
+
+"Show line numbers
+set number
+
+"Set color scheme
+colorscheme dark-basic
+
+map <F2> :NERDTreeToggle<CR>
+
