@@ -1,0 +1,13 @@
+# git
+
+alias ga="git add -u"
+alias gb="git branch"
+alias gc="git commit"
+alias gp="git pull"
+alias gpl="git pull"
+alias gs="git status"
+
+# misc
+
+alias ..="cd .."
+alias la="ls -la"
