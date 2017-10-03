@@ -3,6 +3,7 @@
 alias ga="git add -u"
 alias gb="git branch"
 alias gc="git commit"
+alias gck="git checkout"
 alias gp="git pull"
 alias gpl="git pull"
 alias gs="git status"

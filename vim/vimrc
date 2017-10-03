@@ -17,6 +17,11 @@ syntax on
 "Show line numbers
 set number
 
+"Use 4 spaces for tabs
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
 "Set color scheme
 colorscheme dark-basic
 
